@@ -1,4 +1,4 @@
-# Port Scanner GUI
+# Network Port Scanner GUI
 
 Fast, lightweight, and fun TCP port scanner with a clean Tkinter interface.
 
