@@ -15,8 +15,8 @@ Fast, lightweight, and fun TCP port scanner with a clean Tkinter interface.
 
 ## Screenshot
 
-![Port Scanner GUI](<img width="726" height="552" alt="image" src="https://github.com/user-attachments/assets/e11556a0-597a-4060-a993-9080ad2ac1bd" />
-)
+<img width="726" height="552" alt="image" src="https://github.com/user-attachments/assets/26b88b72-b3b0-4ab0-9e8c-ec25aafa70d3" />
+
 
 ## Quick start
 
